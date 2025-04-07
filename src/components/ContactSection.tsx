@@ -114,7 +114,7 @@ const ContactSection = () => {
               <div>
                 <h3 className="font-medium">LinkedIn</h3>
                 <a 
-                  href="https://www.linkedin.com/in/seneshperera-24b7a426b/" 
+                  href="https://www.linkedin.com/in/senesh-perera-24b7a426b" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-muted-foreground hover:text-primary transition-colors flex items-center"
