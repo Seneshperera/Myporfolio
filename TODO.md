@@ -1,0 +1,4 @@
+- [ ] Update ProjectsSection.jsx with new thumbnail images for Just Park and Cinemax
+- [ ] Update JustPark.jsx gallery with local images from justpark folder
+- [ ] Update Cinemax.jsx gallery with local images from cinemax folder
+- [ ] Test the updated project pages
